@@ -10,9 +10,9 @@ Bioinformatics of any kind will require some base knowledge of coding. Here are 
 
 <img alt="alt_text" width="40px" src="images/rstudio_94807.png" /> A [statistics focused introduction](https://stat545.com/) to R
 
-A guide for [python](https://pythonforbiologists.com/)
+<img alt="alt_text" width="40px" src="images/python.jpeg" />  A guide for [python](https://pythonforbiologists.com/)
 
-[Command line](http://korflab.ucdavis.edu/bootcamp.html)
+<img alt="alt_text" width="40px" src="images/command-line.jpg" /> [Command line](http://korflab.ucdavis.edu/bootcamp.html)
 
 ## Single-Cell Transcriptomics Specific
 Coding in R, I would recommend starting with [Seurat](https://satijalab.org/seurat/articles/get_started_v5_new) as the tutorials are very good. 
