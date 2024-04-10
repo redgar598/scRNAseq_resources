@@ -2,13 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Here are some resources
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## General Coding 
 Bioinformatics of any kind will require some base knowledge of coding. Here are some resources for common tools. 
