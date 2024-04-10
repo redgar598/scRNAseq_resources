@@ -8,7 +8,7 @@ Here are some resources
 ## General Coding 
 Bioinformatics of any kind will require some base knowledge of coding. Here are some resources for common tools. 
 
-![R_logo](https://commons.wikimedia.org/wiki/File:R_logo.svg)
+![Rlogo](https://github.com/redgar598/scRNAseq/blob/main/images/rstudio_94807.png?raw=true)
 A [statistics focused introduction](https://stat545.com/) to R
 
 A guide for [python](https://pythonforbiologists.com/)
